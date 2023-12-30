@@ -1,4 +1,4 @@
-# How to Use the Application
+# How to Use the Application GUI
 
 - **Load Image:** 
   - Click on "Load Image" to load an image of any format (jpg, png, ppm) on the screen.
