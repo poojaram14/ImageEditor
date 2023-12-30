@@ -9,7 +9,7 @@ javac controller/*.java
 ```
 
 ### Execution
-The JAR file is located at `Assignment_6/res/Assignment_6.jar`.
+The JAR file is located at `res/ImageEditor.jar`.
 
 - **GUI Mode:**
 ```bash
