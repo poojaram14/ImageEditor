@@ -81,17 +81,11 @@ An image processing application that has the functionality to apply specified im
 - **CompressImage:** Compresses images.
 - **AbstractImageOperation:** Base for image operations.
 
-#### New Classes in Controller
-- **GUICommandHandler:** Controller for GUI operations.
-
 ### View
 
 #### Classes:
 - **ImageProcessingGUI:** Graphical user interface for image processing.
 - **ImageProcessingUtilities:** Utility functions for image processing.
-
-### Design Changes and Justification
-- **RunScript** class moved outside the controller for better application structure.
 
 
 ### Citations
