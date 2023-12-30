@@ -1,0 +1,12 @@
+load /Users/anusha/Downloads/Assignment_5/src/res/test.jpeg test
+compress 60 test test-compress-60
+compress 80 test test-compress-80
+sepia test testsepia 30
+blur test testblur 50
+
+save /Users/anusha/Downloads/Assignment_5/src/res2/test-compress-60.jpeg test-compress-60
+save /Users/anusha/Downloads/Assignment_5/src/res2/test-compress-80.jpeg test-compress-80
+save /Users/anusha/Downloads/Assignment_5/src/res2/blur.jpeg testblur
+save /Users/anusha/Downloads/Assignment_5/src/res2/sepia.jpeg testsepia
+
+

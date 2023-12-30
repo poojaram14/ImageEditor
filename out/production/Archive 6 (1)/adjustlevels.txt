@@ -1,0 +1,5 @@
+load /Users/anusha/Downloads/Assignment_5/src/res2/res-small.jpeg test
+compress 60 test test-compress-60
+compress 80 test test-compress-80
+save /Users/anusha/Downloads/Assignment_5/src/res2/test-compress-60.jpg test-compress-60
+save /Users/anusha/Downloads/Assignment_5/src/res2/test-compress-80.jpg test-compress-80

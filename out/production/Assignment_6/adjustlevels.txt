@@ -1,0 +1,30 @@
+load /Users/anusha/Downloads/Assignment_6/src/res2/res-small.ppm test
+compress 60 test test-compress-60
+compress 80 test test-compress-80
+save /Users/anusha/Downloads/Assignment_6/src/res2/test-compress-60.jpg test-compress-60
+save /Users/anusha/Downloads/Assignment_6/src/res2/test-compress-80.jpg test-compress-80
+color-correct test test-color-correct
+color-correct test test-color-correct-80 80
+save /Users/anusha/Downloads/Assignment_6/src/res2/test-color-correct.jpg test-color-correct
+save /Users/anusha/Downloads/Assignment_6/src/res2/test-color-correct-80.jpg test-color-correct-80
+levels-adjust 20 100 255 test test-levels-adjust
+levels-adjust 30 150 230 test test-levels-adjust-50 50
+levels-adjust 10 170 210 test test-levels-adjust-20 20
+save /Users/anusha/Downloads/Assignment_6/src/res2/test-levels-adjust.jpg test-levels-adjust
+save /Users/anusha/Downloads/Assignment_6/src/res2/test-levels-adjust-50.jpg test-levels-adjust-50
+save /Users/anusha/Downloads/Assignment_6/src/res2/test-levels-adjust-20.jpg test-levels-adjust-20
+histogram test-compress-60 test-histogram-compress-60
+histogram test-compress-80 test-histogram-compress-80
+save /Users/anusha/Downloads/Assignment_6/src/res2/test-histogram-compress-60.jpg test-histogram-compress-60
+save /Users/anusha/Downloads/Assignment_6/src/res2/test-histogram-compress-80.jpg test-histogram-compress-80
+histogram test-color-correct test-histogram-color-correct
+histogram test-color-correct-80 test-histogram-color-correct-80
+save /Users/anusha/Downloads/Assignment_6/src/res2/test-histogram-color-correct.jpg test-histogram-color-correct
+save /Users/anusha/Downloads/Assignment_6/src/res2/test-histogram-color-correct-80.jpg test-histogram-color-correct-80
+histogram test-levels-adjust test-histogram-levels-adjust
+histogram test-levels-adjust-50 test-histogram-levels-adjust-50
+histogram test-levels-adjust-20 test-histogram-levels-adjust-20
+save /Users/anusha/Downloads/Assignment_6/src/res2/test-histogram-levels-adjust.jpg test-histogram-levels-adjust
+save /Users/anusha/Downloads/Assignment_6/src/res2/test-histogram-levels-adjust-50.jpg test-histogram-levels-adjust-50
+save /Users/anusha/Downloads/Assignment_6/src/res2/test-histogram-levels-adjust-20.jpg test-histogram-levels-adjust-20
+

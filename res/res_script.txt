@@ -1,0 +1,33 @@
+load /Users/poojaramakrishnan/Downloads/Assignment_6/src/res2/res-small.ppm test
+brighten 100 test test-brighter
+horizontal-flip test test-horizontal
+vertical-flip test test-vertical
+horizontal-flip test-vertical test-vertical-horizontal
+red-component test test-red
+green-component test test-green
+blue-component test test-blue
+value test test-value
+luma test test-luma
+intensity test test-intensity
+rgb-split test test-red-split test-green-split test-blue-split
+rgb-combine test-combined test-red-split test-green-split test-blue-split
+blur test test-blur
+sharpen test test-sharpen
+sepia test test-sepia
+save /Users/poojaramakrishnan/Downloads/Assignment_6/src/res2/test-brighter.jpg test-brighter
+save /Users/poojaramakrishnan/Downloads/Assignment_6/src/res2/test-horizontal.jpg test-horizontal
+save /Users/poojaramakrishnan/Downloads/Assignment_6/src/res2/test-vertical.jpg test-vertical
+save /Users/poojaramakrishnan/Downloads/Assignment_6/src/res2/test-vertical-horizontal.jpg test-vertical-horizontal
+save /Users/poojaramakrishnan/Downloads/Assignment_6/src/res2/test-red.jpg test-red
+save /Users/poojaramakrishnan/Downloads/Assignment_6/src/res2/test-green.jpg test-green
+save /Users/poojaramakrishnan/Downloads/Assignment_6/src/res2/test-blue.jpg test-blue
+save /Users/poojaramakrishnan/Downloads/Assignment_6/src/res2/test-value.jpg test-value
+save /Users/poojaramakrishnan/Downloads/Assignment_6/src/res2/test-luma.jpg test-luma
+save /Users/poojaramakrishnan/Downloads/Assignment_6/src/res2/test-intensity.jpg test-intensity
+save /Users/poojaramakrishnan/Downloads/Assignment_6/src/res2/test-red-split.jpg test-red-split
+save /Users/poojaramakrishnan/Downloads/Assignment_6/src/res2/test-green-split.jpg test-green-split
+save /Users/poojaramakrishnan/Downloads/Assignment_6/src/res2/test-blue-split.jpg test-blue-split
+save /Users/poojaramakrishnan/Downloads/Assignment_6/src/res2/test-combined.jpg test-combined
+save /Users/poojaramakrishnan/Downloads/Assignment_6/src/res2/test-blur.jpg test-blur
+save /Users/poojaramakrishnan/Downloads/Assignment_6/src/res2/test-sharpen.jpg test-sharpen
+save /Users/poojaramakrishnan/Downloads/Assignment_6/src/res2/test-sepia.jpg test-sepia

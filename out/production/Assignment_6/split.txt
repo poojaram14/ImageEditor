@@ -1,0 +1,13 @@
+load /Users/anusha/Downloads/Assignment_6/src/res2/res-small.ppm test
+blur test test-blur-40 40
+save /Users/anusha/Downloads/Assignment_6/src/res2/test-blur-40.jpg test-blur-40
+sharpen test test-sharpen-40 40
+save /Users/anusha/Downloads/Assignment_6/src/res2/test-sharpen-40.jpg test-sharpen-40
+value test test-value-50 50
+save /Users/anusha/Downloads/Assignment_6/src/res2/test-value-50.jpg test-value-50
+intensity test test-intensity-50 50
+save /Users/anusha/Downloads/Assignment_6/src/res2/test-intensity-50.jpg test-intensity-50
+luma test test-luma-50 50
+save /Users/anusha/Downloads/Assignment_6/src/res2/test-luma-50.jpg test-luma-50
+sepia test test-sepia-30 30
+save /Users/anusha/Downloads/Assignment_6/src/res2/test-sepia-30.jpg test-sepia-30
