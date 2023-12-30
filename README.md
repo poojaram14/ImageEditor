@@ -85,7 +85,8 @@ An image processing application that has the functionality to apply specified im
 ### Design Changes and Justification
 - **RunScript** class moved outside the controller for better application structure.
 
-### Citation of the Image Being Used
+
+### Citations
 **Image Credit:**
 - **Author/Photographer:** Maridav
 - **Date of Publication/Creation:** June 29, 2021
