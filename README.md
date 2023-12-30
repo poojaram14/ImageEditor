@@ -15,6 +15,14 @@ The JAR file is located at `res/ImageEditor.jar`.
 ```bash
 java -jar ImageEditor.jar
 ```
+
+## Graphical User Interface
+
+![GUI Screenshot](res/GUI_sample1.png "Graphical User Interface")
+
+When invoked, the program will open the graphical user interface...
+
+
 - **Interactive Mode:**
 ```bash
 java -jar ImageEditor.jar -text
