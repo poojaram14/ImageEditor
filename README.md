@@ -16,7 +16,7 @@ The JAR file is located at `res/ImageEditor.jar`.
 java -jar ImageEditor.jar
 ```
 
-## Graphical User Interface
+#### Graphical User Interface
 
 ![GUI Screenshot](res/GUI_sample1.png "Graphical User Interface")
 
