@@ -13,17 +13,17 @@ The JAR file is located at `res/ImageEditor.jar`.
 
 - **GUI Mode:**
 ```bash
-java -jar Assignment_6.jar
+java -jar ImageEditor.jar
 ```
 - **Interactive Mode:**
 ```bash
-java -jar Assignment_6.jar -text
+java -jar ImageEditor.jar -text
 ```
 In interactive mode, type each command separately and type `exit` to quit.
 
 - **Script Mode:** 
 ```bash
-java -jar Assignment_6.jar -file res_script.txt
+java -jar ImageEditor.jar -file res_script.txt
 ```
 
 To run the script file (provide the exact location of the text file).
